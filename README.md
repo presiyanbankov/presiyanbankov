@@ -5,7 +5,7 @@
 ## Hi, I'm Presiyan, a Bulgarian Fullstack Developer 👋🏼
 
 - 🔍 Currently looking for new opportunities<br>
-- 🛠️ Working on personal projects to enhance my skills<br>
+- 🛠️ Working on а personal project<br>
 - 🎓 Studying Computer Science at TU Wien<br>
 - 🤝 Open to collaborating on interesting projects
 
